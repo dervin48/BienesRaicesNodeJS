@@ -1,0 +1,17 @@
+Comandos de NPM
+//Inicia el servicio
+npm init
+
+//Instala el Framework de express
+npm i express
+
+//Instala dependecias de desarrollo 
+npm i -D express
+
+//Lamar el servicio
+Configurar el packeage.json
+arregrarlo a script
+npm run start 
+
+//Instalar Nodemon
+npm i -D Nodemon // Nos permite reiniciar el servidor cada vez que configuremos algo
